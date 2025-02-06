@@ -1,4 +1,4 @@
-# Tiktok Online Assessment Questions
+
 # There are n candies put from left to right on a table. The candies are numbered from left to right. The i-th candy has weight candies[i]. Alice and Bob eat candies.
 # Alice can eat any number of candies from the left (she can't skip candies, she eats them in a row).
 # Bob can eat any number of candies from the right (he can't skip candies, he eats them in a row).
